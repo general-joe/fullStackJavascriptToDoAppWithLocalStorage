@@ -112,6 +112,7 @@ textarea:focus {
 input::placeholder,
 textarea::placeholder {
   color: rgba(197, 197, 164);
+  font-size: 0.5rem;
 }
 
 .card {
